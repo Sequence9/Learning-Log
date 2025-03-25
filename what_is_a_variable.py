@@ -1,1 +1,0 @@
-age = 20  # Super easy box called "age" with 20, no extra stuff
