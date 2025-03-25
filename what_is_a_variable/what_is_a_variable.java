@@ -1,0 +1,1 @@
+int age = 20;  // Same thing, a box called "age" with 20 inside
